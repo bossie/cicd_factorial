@@ -1,4 +1,4 @@
-package org.bossie.cicd.factorial.factorial;
+package org.bossie.cicd.factorial;
 
 public class Factorial {
     public static long factorial(long x) {
